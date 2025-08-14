@@ -7,7 +7,7 @@
 </style> -->
 
 <h4 style="font-family:cursive"  align="center">
-<a><img src="https://profile-counter.glitch.me/CDinuwan/count.svg" width="150px"/></a>
+<a><img src="https://profile-counter.glitch.me/cdin8619-0/count.svg" width="150px"/></a>
 <br/>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -57,7 +57,7 @@ Passionate software engineer dedicated to crafting elegant solutions and pushing
 <div align="center">
   <h3>GitHub's Data Statistics</h3>
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=CDinuwan&theme=dark" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=cdin8619-0&theme=dark" alt="GitHub Streak" />
   </a>
 </div>
 
