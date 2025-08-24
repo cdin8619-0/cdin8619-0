@@ -7,7 +7,6 @@
 </style> -->
 
 <h4 style="font-family:cursive"  align="center">
-<a><img src="https://profile-counter.glitch.me/cdin8619-0/count.svg" width="150px"/></a>
 <br/>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
